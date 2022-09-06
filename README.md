@@ -1,6 +1,6 @@
+![MasterHead](https://static.javatpoint.com/blog/images/mern-stack.png)
 <h1 align="center">Hi 👋, I'm Muhammed Shiyahudheen</h1>
 <h3 align="center">Self Motive, Self Learned Full Stack Developer</h3>
-<img align="right" alt="coding" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohd-shiyahudheen&label=Profile%20views&color=0e75b6&style=flat" alt="mohd-shiyahudheen" /> </p>
 <img align="center" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
