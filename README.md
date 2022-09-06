@@ -1,4 +1,4 @@
-![MasterHead](https://static.javatpoint.com/blog/images/mern-stack.png)
+![MasterHead] width="100%"(https://static.javatpoint.com/blog/images/mern-stack.png)
 <h1 align="center">Hi 👋, I'm Muhammed Shiyahudheen</h1>
 <h3 align="center">Self Motive, Self Learned Full Stack Developer</h3>
 
